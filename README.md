@@ -1,2 +1,2 @@
-# painJS
+# paintJS
 그림판
